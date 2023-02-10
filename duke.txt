@@ -1,5 +1,20 @@
-model:2022
-cc:200
-colour:black,orange
-abs:yes
-link:https://www.bikewale.com/ktm-bikes/duke-200/
+link:https://www.bikewale.com/ktm-bikes/duke-200/ 
+
+KTM Duke 200 Summary
+200 Duke key highlights
+Engine Capacity	199.5 cc
+Mileage 	33 kmpl
+Transmission	6 Speed Manual
+Kerb Weight	159 kg
+Fuel Tank Capacity	13.4 litres
+Seat Height	822 mm
+About Duke 200:
+               KTM 200 Duke is a street bike available at a starting price of Rs. 1,90,814 in India. It is available in only 1 variant and 2 colours. The KTM 200 Duke is powered by 199.5cc BS6 engine which develops a power of 24.67 bhp and a torque of 19.3 Nm. With both front and rear disc brakes, KTM 200 Duke comes up with anti-locking braking system. This 200 Duke bike weighs 159 kg and has a fuel tank capacity of 13.4 liters.
+
+KTM India has updated its portfolio with the launch of the 2022 iteration of 200 Duke. The changes to the 2022 model are limited to styling updates in the form of a new paint theme and the 200 Duke is now available in Electronic Orange and Dark Silver Metallic colour options.
+
+Both colour themes use a dual-tone finish and feature identical graphics. However, the Electronic Orange gets orange shade for the sub-frame while the Dark Silver Metallic gets silver finish to the unit. Both colour options come with black colour for the tubular frame with orange finish for the alloy wheels.
+
+The changes are limited to styling upgrades in the form of the new paint theme. Thus, the 2022 model continues to feature a halogen headlight, an LED taillight, LED turn indicators, orange backlit LCD screen, and a switchable ABS. The hardware comprises upside-down front forks and rear mono-shock to handle the suspension duties. The braking system includes single discs on both wheels while the safety net comprises dual-channel ABS.
+
+The 2022 model continues to use the BS6-compliant 199.5cc, single-cylinder, liquid-cooled engine that produces 24.6bhp at 10,000rpm and 19.3Nm of peak torque at 8,000rpm. This motor is linked to a six-speed gearbox. The motorcycle is available in a single variant and competes in the same price range as the Honda Hness 350, Royal Enfield Classic 350, and Suzuki Gixxer SF250, among others.
